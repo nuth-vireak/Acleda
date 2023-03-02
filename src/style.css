@@ -1,3 +1,17 @@
 .acleda-header {
     background: #1b3351;
 }
+
+.acleda-dropdown-bg {
+    background: #122133;
+    border-top: 1px solid #cea939;
+    width: 250px;
+}
+
+.acleda-dropdown-bg > li :hover {
+    background: #1b3351;
+}
+
+.acleda-link-bg :hover {
+    background: red;
+}
